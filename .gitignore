@@ -1,0 +1,8 @@
+/ruby_vendor
+/build
+/.bundle
+/.sass-cache
+.tmp
+.DS_Store
+Thumbs.db
+.sass-cache
