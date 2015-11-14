@@ -1,4 +1,5 @@
 /ruby_vendor
+/vendor
 /build
 /.bundle
 /.sass-cache
